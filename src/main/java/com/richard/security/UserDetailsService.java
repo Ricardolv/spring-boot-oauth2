@@ -2,6 +2,7 @@ package com.richard.security;
 
 import com.richard.domain.Authority;
 import com.richard.domain.User;
+import com.richard.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
